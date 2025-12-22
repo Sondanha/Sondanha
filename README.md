@@ -6,8 +6,9 @@ AI를 포함한 기술을 활용해
 
 <br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sondanha&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondanha&layout=compact)
+| Activity | Languages |
+|---|---|
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sondanha&hide_border=true&area=true&custom_title=Recent%20Activity) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondanha&layout=compact&hide_title=true) |
 
 <br>
 
