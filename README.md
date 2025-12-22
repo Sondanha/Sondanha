@@ -3,6 +3,12 @@
 AI를 포함한 기술을 활용해  
 실제로 운영 가능한 서비스를 만드는 것을 목표로 합니다.
 
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sondanha&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondanha&layout=compact)
+
 <br>
 
 ## 🔧 Tech Focus
@@ -55,6 +61,7 @@ AI를 포함한 기술을 활용해
 - [LangGraph 챗봇 흐름 실습](https://github.com/Sondanha/langgraph-playground)
 - ML / DL 학습 정리 (정리 후 공개 예정)
 
+<br>
 
 ## 📚 Learning & Exploration
 서비스 구현 관점에서 다양한 언어와 프레임워크를 학습했습니다.
@@ -63,7 +70,8 @@ AI를 포함한 기술을 활용해
 - Backend: Node.js, Spring / Spring Boot, ASP.NET Core
 - Language: Java, C#
 - Desktop: WinForms
-- 
+
+<br>
 
 ## ✍️ Writing & Problem Solving
 - [Algorithm & Problem Solving](https://github.com/Sondanha/coding-test-problem-solving) (Python)
