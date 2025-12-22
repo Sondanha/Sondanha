@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 단하입니다.
 
-<!--
-**Sondanha/Sondanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI를 포함한 기술을 활용해  
+실제로 운영 가능한 서비스를 만드는 것을 목표로 합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Focus
+- **Main**: Python, Backend
+- **Direction**: AI 기반 서비스 개발
+
+---
+
+## 🧱 Core Stack
+- **Backend**: NestJS, Node.js, Spring / Spring Boot, ASP.NET Core
+- **Database**: MySQL, PostgreSQL, MongoDB, Supabase, Qdrant
+- **ORM / Data Access**: Prisma, JPA, Entity Framework Core
+
+---
+
+## 🤖 AI / Data
+- **Language**: Python
+- **Deep Learning**: PyTorch (모델 학습 및 간단한 파인튜닝)
+- **Data Analysis**: NumPy, Pandas
+- **Computer Vision**: OpenCV
+- **Generative AI**: LangGraph
+- **Experiment**: Google Colab
+
+---
+
+## 🚀 Featured Projects
+
+### [Crate – 지원서/평가 플랫폼](https://github.com/indigo-net/be-crate)
+- 지원서/설문지 생성부터 평가·선발까지 처리하는 플랫폼
+- 역할: 백엔드 / AI
+- 기술 스택: NestJS, TypeScript, PostgreSQL
+- 상태: 개발 중
+
+### [허가요 – 법률 챗봇](https://github.com/Sondanha/rag-legal)
+- 허가 관련 서식 제공 및 법률 질의응답 시스템
+- 역할: 백엔드 / AI
+- 기술 스택: LangGraph, Python, Qdrant, FastAPI
+- 상태: 배포 완료 (Cloudtype, Hugging Face Spaces)
+
+### [POLO - 쉬운 논문 설명 서비스](https://github.com/group5-ocr/POLO/tree/main/polo-system)
+- LaTeX 기반 논문을 자동 전처리 후 AI 모델을 통해 쉬운 한국어로 변환하고 시각적 자료 자동 생성
+- 역할: 전처리 / [슬라이드 생성](https://github.com/group5-ocr/paper-viz)
+- 기술 스택: Python
+- 상태: 배포 완료 (Cloudtype)
+
+
+---
+
+## 🧪 AI & Python Practice
+- [OpenCV 이미지 처리 실습](https://github.com/Sondanha/beard-filter-cam)
+- [LangGraph 챗봇 흐름 실습](https://github.com/Sondanha/langgraph-playground)
+- ML / DL 학습 정리 (정리 후 공개 예정)
+
+---
+
+## 📚 Learning & Exploration
+서비스 구현 관점에서 다양한 언어와 프레임워크를 학습했습니다.
+
+- Web: HTML, CSS
+- Backend: Node.js, Spring / Spring Boot, ASP.NET Core
+- Language: Java, C#
+- Desktop: WinForms
+
+---
+
+## ✍️ Writing & Problem Solving
+- [Algorithm & Problem Solving](https://github.com/Sondanha/coding-test-problem-solving) (Python)
+- Blog: [Velog](https://velog.io/@son-dan-ha/posts) (학습 및 개념 정리)
+
+---
+
+## 🎯 Current Goal
+AWS 환경에서 서비스 배포·운영을 경험하고, 그 위에 AI 기능을 단계적으로 확장하는 것을 목표로 합니다.
