@@ -6,9 +6,7 @@ AI를 포함한 기술을 활용해
 
 <br>
 
-| Activity | Languages |
-|---|---|
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sondanha&hide_border=true&area=true&custom_title=Recent%20Activity) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondanha&layout=compact&hide_title=true) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondanha&layout=compact&hide_title=true) 
 
 <br>
 
@@ -20,23 +18,30 @@ AI를 포함한 기술을 활용해
 
 ## 🚀 Featured Projects
 
-### [Crate – 지원서/평가 플랫폼](https://github.com/indigo-net/be-crate)
-- 지원서/설문지 생성부터 평가·선발까지 처리하는 플랫폼
-- 역할: 백엔드 / AI
-- 기술 스택: NestJS, TypeScript, PostgreSQL
-- 상태: 개발 중
+### 🔹 [Crate – 지원서/평가 플랫폼](https://github.com/indigo-net/be-crate)
+> 지원서·설문 생성부터 평가·선발까지 처리하는 플랫폼
 
-### [허가요 – 법률 챗봇](https://github.com/Sondanha/rag-legal)
-- 허가 관련 서식 제공 및 법률 질의응답 시스템
-- 역할: 백엔드 / AI
-- 기술 스택: LangGraph, Python, Qdrant, FastAPI
-- 상태: 배포 완료 (Cloudtype, Hugging Face Spaces)
+- **Role**: Backend / AI  
+- **Tech**: NestJS, TypeScript, PostgreSQL  
+- **Status**: 개발 중
 
-### [POLO - 쉬운 논문 설명 서비스](https://github.com/group5-ocr/POLO/tree/main/polo-system)
-- LaTeX 기반 논문을 자동 전처리 후 AI 모델을 통해 쉬운 한국어로 변환하고 시각적 자료 자동 생성
-- 역할: 전처리 / [슬라이드 생성](https://github.com/group5-ocr/paper-viz)
-- 기술 스택: Python
-- 상태: 배포 완료 (Cloudtype)
+
+
+### 🔹 [허가요 – 법률 챗봇](https://github.com/Sondanha/rag-legal)
+> 허가 관련 서식 제공 및 법률 질의응답 시스템
+
+- **Role**: Backend / AI  
+- **Tech**: LangGraph, Python, Qdrant, FastAPI  
+- **Status**: 배포 완료 (Cloudtype, Hugging Face Spaces)
+
+
+
+### 🔹 [POLO – 쉬운 논문 설명 서비스](https://github.com/group5-ocr/POLO/tree/main/polo-system)
+> LaTeX 기반 논문을 전처리 후 AI로 쉬운 한국어 요약 및 시각 자료 자동 생성
+
+- **Role**: 전처리 / [슬라이드 생성](https://github.com/group5-ocr/paper-viz)  
+- **Tech**: Python  
+- **Status**: 배포 완료 (Cloudtype)
 
 <br>
 
