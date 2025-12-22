@@ -6,7 +6,7 @@ AI를 포함한 기술을 활용해
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sondanha)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sondanha&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sondanha&layout=compact)
 
 <br>
