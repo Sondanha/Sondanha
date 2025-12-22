@@ -3,30 +3,13 @@
 AI를 포함한 기술을 활용해  
 실제로 운영 가능한 서비스를 만드는 것을 목표로 합니다.
 
----
+<br>
 
 ## 🔧 Tech Focus
 - **Main**: Python, Backend
 - **Direction**: AI 기반 서비스 개발
 
----
-
-## 🧱 Core Stack
-- **Backend**: NestJS, Node.js, Spring / Spring Boot, ASP.NET Core
-- **Database**: MySQL, PostgreSQL, MongoDB, Supabase, Qdrant
-- **ORM / Data Access**: Prisma, JPA, Entity Framework Core
-
----
-
-## 🤖 AI / Data
-- **Language**: Python
-- **Deep Learning**: PyTorch (모델 학습 및 간단한 파인튜닝)
-- **Data Analysis**: NumPy, Pandas
-- **Computer Vision**: OpenCV
-- **Generative AI**: LangGraph
-- **Experiment**: Google Colab
-
----
+<br>
 
 ## 🚀 Featured Projects
 
@@ -48,15 +31,30 @@ AI를 포함한 기술을 활용해
 - 기술 스택: Python
 - 상태: 배포 완료 (Cloudtype)
 
+<br>
 
----
+## 🧱 Core Stack
+- **Backend**: NestJS, Node.js, Spring / Spring Boot, ASP.NET Core
+- **Database**: MySQL, PostgreSQL, MongoDB, Supabase, Qdrant
+- **ORM / Data Access**: Prisma, JPA, Entity Framework Core
+
+<br>
+
+## 🤖 AI / Data
+- **Language**: Python
+- **Deep Learning**: PyTorch (모델 학습 및 간단한 파인튜닝)
+- **Data Analysis**: NumPy, Pandas
+- **Computer Vision**: OpenCV
+- **Generative AI**: LangGraph
+- **Experiment**: Google Colab
+
+<br>
 
 ## 🧪 AI & Python Practice
 - [OpenCV 이미지 처리 실습](https://github.com/Sondanha/beard-filter-cam)
 - [LangGraph 챗봇 흐름 실습](https://github.com/Sondanha/langgraph-playground)
 - ML / DL 학습 정리 (정리 후 공개 예정)
 
----
 
 ## 📚 Learning & Exploration
 서비스 구현 관점에서 다양한 언어와 프레임워크를 학습했습니다.
@@ -65,14 +63,13 @@ AI를 포함한 기술을 활용해
 - Backend: Node.js, Spring / Spring Boot, ASP.NET Core
 - Language: Java, C#
 - Desktop: WinForms
-
----
+- 
 
 ## ✍️ Writing & Problem Solving
 - [Algorithm & Problem Solving](https://github.com/Sondanha/coding-test-problem-solving) (Python)
 - Blog: [Velog](https://velog.io/@son-dan-ha/posts) (학습 및 개념 정리)
 
----
+<br>
 
 ## 🎯 Current Goal
 AWS 환경에서 서비스 배포·운영을 경험하고, 그 위에 AI 기능을 단계적으로 확장하는 것을 목표로 합니다.
