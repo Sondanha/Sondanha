@@ -7,7 +7,9 @@ LLM·AI 기반의 **서비스 구현**을 목표로 합니다.
 ### 🚀 주요 프로젝트 소개
 
 #### 🔹 [Crate – 지원서/평가 플랫폼](https://github.com/indigo-net/be-crate)
-> 지원서·설문 생성부터 평가·선발까지 처리하는 플랫폼 "크라테". 백엔드 개발 중 ... 
+> [Indigo Net](https://github.com/indigo-net)의 지원서·설문 생성부터 평가·선발까지 처리하는 플랫폼 "크라테"
+
+> 백엔드 개발 중
 
 #### 🔹 [허가요 – 법률 챗봇](https://github.com/Sondanha/rag-legal)
 > 허가 관련 서식을 제공하고 RAG를 활용한 법률 챗봇 개발
